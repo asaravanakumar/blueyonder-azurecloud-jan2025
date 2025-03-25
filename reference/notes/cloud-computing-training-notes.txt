@@ -1,0 +1,132 @@
+		Cloud Computing
+
+
+				BankingApp
+
+					- 6 Servers -> 32 GB and 8 Core with Ubuntu 24 OS
+					
+						upgrade ->	 64 GB
+
+				Physical vs Virtual server
+
+				
+				Features / Characteristics
+						
+					- Accessible from from anywhere anytime over the internet
+					- Pay as you go / as per usage
+					- Elastic & Scalable
+					- Resource Pooling
+					
+
+				Benefits
+
+					- Pay as you Go
+					- Scalability
+					- Elasticity
+					- Less Expensive (No CapEx only OpEx)
+					- Go Global in minutes
+
+				Limitations
+
+					- Security (Shared Responsibility)
+					- Lack of control
+					- Reliability
+					- Vendor Lock-in
+
+
+			Azure Global Infrastructure
+
+				Geography
+				Regions - 60 - 2 or more AZ
+				Region Pair - DR
+				Availability Zones - 150+ - cluster of DataCenter
+				PoP / Edge Nodes / Locations - Azure CDN
+
+				Azure Speed Test - https://azurespeedtest.azurewebsites.net
+				Azure Service Status Check - 
+
+			
+			Azure Services
+
+				Resource - VM, Database, VirtualNet, etc.
+				Resource Group (RG)
+				Resource Group Manager (RGM)
+
+				Clients
+					- Azure Portal
+					- Azure CLI
+					- REST API
+					- SDK - Java, Python, .Net, Node, etc.
+
+				Compute Service
+					Virtual Machine (IaaS)
+						- Linux
+						- Windows
+						
+						- Resource Group -> bankingapp-rg-dev
+						- Image -> OS, Softwares, App
+						- Type / Size -> CPU, Memory
+						- Region
+						- AZ
+
+						- Disk
+								- Standard HDD
+								- Standard SSD
+								- Premium SSD
+								..
+						- Networking
+							 - VirtualNet
+							 - Subnet
+							 - Public IP
+							 - Inbound/Outbound
+
+					- Management
+					- Monitoring
+
+
+
+					Virtual Scale Sets (IaaS)
+
+					Azure Load Balancer (ALB)
+
+					
+					AppService (PaaS)
+
+					Azure Functions (PaaS / FaaS - Serverless Computing)
+
+					
+					Azure Container Instance
+
+					Azure Container Registry
+
+					Azure Kubernetes Service (AKS)
+						
+				
+				Storage Service
+
+				Network Service
+						LAN
+							VLAN
+						Router
+						Switch
+						NACL
+						Firewall
+						
+
+				Database Service
+
+					- Azure Database for MySQL
+
+				Security Service
+
+				DevOps Service
+
+				Monitoring Service
+
+				Analytics Service
+
+				AL/ML Servicer
+
+				IoT Service
+
+				Mobile Service

@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=fastapi%2Cmac-linux%2Cazure-portal%2Czip-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli
